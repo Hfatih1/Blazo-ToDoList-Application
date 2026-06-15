@@ -15,7 +15,7 @@ A simple, lightweight todo web application built with C# and .NET Blazor. I buil
 ## How to Run Locally
 
 1. Clone this repository:
-git clone https://github.com/Hfatih1/todolist.git
+git clone https://github.com/Hfatih1/Blazor-ToDoList-Application
 
 2. Navigate into the project folder:
 cd todolist
